@@ -6,3 +6,6 @@
 	path = Rbeast
 	url = https://github.com/zhaokg/rbeast
 	subdir = R
+[submodule "bcp"]
+	path = bcp
+	url = https://github.com/zhaokg/bcp
